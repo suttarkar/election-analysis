@@ -47,4 +47,4 @@ The analysis of the election show that:
   - **Diana DeGette**, who recieved **73.8%** of the vote and **272,892** votes total.
  
 ## Summary
-k
+There are multiple ways the scripts can be modified for use in other elections. First, the different election races can be made into a column itself so we can view results of multiple elections at once. Second, 
