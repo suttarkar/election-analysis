@@ -36,7 +36,7 @@ The analysis of the election show that:
   - Denver recieved **82.8%** of the vote and **306,055** votes total.
   - Arapahoe recieved **6.7%** of the vote and **24,801** votes total.
 
-- Largest county Turnout was **Denver** with **306,055** votes.
+- Largest county turnout was **Denver** with **306,055** votes.
  
 - The candidate results were:
   - Charles Casper Stockham recieved **23%** of the vote and **85,213** votes total.
